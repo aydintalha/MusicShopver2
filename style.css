@@ -1,0 +1,5 @@
+div li {
+    list-style-type: none;
+}
+
+background-image: var(--bs-gradient);
